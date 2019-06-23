@@ -18,6 +18,10 @@ header#header{
   mark{
       font-weight: bold;
   }
+  img.icon_fab {
+    width: 70px;
+    margin-top: 2em;
+}
   .links {
     list-style-type: none;
     display: flex;

@@ -57,7 +57,8 @@ nav#menu {
     margin: 0;
     padding: 0;   
     display: flex;   
-    background:#ff612275;         
+    background:#ce1b28; 
+    border-bottom-left-radius: 10px;        
 }
 .menu ul li {
     width: 20%;
@@ -84,7 +85,7 @@ a {
         max-height: 0;
         overflow: hidden;
         transition: all 1s ease-out;
-
+        border-bottom-left-radius: 50px;  
     }
     .menu ul li {
         text-align: center;
